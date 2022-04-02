@@ -1,2 +1,2 @@
-# transferNMT
-transfer learning on NMT with  Attention models for en-te and en-ka parallel pairs
+# Transfer Learning on morphologically similar languages
+UE19CS334 Course Project
